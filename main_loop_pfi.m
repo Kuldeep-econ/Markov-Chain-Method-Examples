@@ -1,6 +1,7 @@
-%% Policy Function Iteration
-function output=main_loop_pfi(parameters)
-%parameters=parameter();
+%% Policy Function Iteration (Matlab code)
+%% You need parameter file and policy file to run this
+
+parameters=parameter();
 si=parameters.si ; %CRRA utility parameter sigma
 rho=parameters.rho ; %discount rate
 r=parameters.r ; %interest rate
@@ -110,5 +111,3 @@ Pa_minus(2:I,:)= prob*max(-ss(2:I,:), 0) ;    %P(a-delta_a,)
     
 end
 %toc;
-output=c;
-end
