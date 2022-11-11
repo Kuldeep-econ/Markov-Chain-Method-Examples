@@ -1,4 +1,6 @@
-%% Markov Chain Approximation Method
+%% Markov Chain Approximation Method (Matlab)
+
+% You need update_con file to run this.
 % Example 1 : Growth Model
 
 %Parameters
