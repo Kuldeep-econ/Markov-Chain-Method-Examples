@@ -18,4 +18,4 @@ update_cons
 There are 3 files:
 main_loop_pfi,
 policy,
-parameters
+parameter
