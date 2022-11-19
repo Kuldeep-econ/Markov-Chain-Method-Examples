@@ -1,5 +1,9 @@
-# Markov-Chain-Method-Examples
-Codes for various examples using Markov chain approximation method.
+# Markov-Chain-Method
+
+
+You can learn about the Markov chain approximation method from the lecture.
+Codes for examples used in the lecture are given. Details below:
+
 
 You need matlab for both the examples.
 
